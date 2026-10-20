@@ -38,7 +38,7 @@ for compilation instructions for every supported platform.
 ## Community and contributing
 
 Claudot is not only an engine but an ever-growing community of users and engine
-developers. Please visit our [Discord Server]()!
+developers. Please visit our [Discord Server](https://discord.gg/b4Xccxcv3u)!
 
 To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
 This document also includes guidelines for reporting bugs.
