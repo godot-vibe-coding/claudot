@@ -2,6 +2,9 @@
 
 ![Claudot Engine](claudot_logo.png)
 
+*We won't reject any useful, ready-to-use feature no matter who wrote it. AI can help us improve our favorite game engine faster and more efficiently. Burn your tokens for FOSS!*
+
+
 ## 2D and 3D cross-platform game engine
 
 **Claudot is a feature-packed, cross-platform
